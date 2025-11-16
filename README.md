@@ -68,10 +68,10 @@ Minha stack de tecnologia e os conceitos que estou estudando:
 
 ## 🌱 Minha Jornada de Aprendizado
 
-* 🔭 Estou trabalhando atualmente em: **[Nome do seu projeto de faculdade ou pessoal, ex: "Um sistema de e-commerce para meu TCC"]**
-* 🌱 Estou me aprofundando em: **[Tecnologia, curso ou conceito, ex: "Microsserviços e Testes Unitários"]**
-* 👯 Procuro colaborar em: **[Tipo de projeto, ex: "Projetos open-source ou desafios de backend"]**
-* 💬 Pergunte-me sobre: **[Assunto que você já se sente confortável, ex: "Java, SQL e Modelagem de Dados"]**
+* 🔭 Estou trabalhando atualmente em: **Sites e jogos para a faculdade**
+* 🌱 Estou me aprofundando em: **Microsserviços e Testes Unitários**
+* 👯 Procuro colaborar em: **Projetos open-source ou desafios de backend**
+
 
 ## 🔗 Conecte-se Comigo
 
@@ -79,7 +79,7 @@ Minha stack de tecnologia e os conceitos que estou estudando:
   <a href="[SEU_LINK_DO_LINKEDIN]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[SEU_EMAIL]">
+  <a href="mailto:torresrafaelfernandes@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   </p>
