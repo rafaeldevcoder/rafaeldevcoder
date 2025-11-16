@@ -1,22 +1,22 @@
 <h1 align="center">
-  👋 Olá, eu sou [Seu Nome]
+  👋 Olá, eu sou RafaelDevCoder
 </h1>
 <h3 align="center">
   Estudante de Análise e Desenvolvimento de Sistemas
 </h3>
 <p align="center">
-  <i>Focado(a) em transformar problemas complexos em soluções de software eficientes.</i>
+  <i>Focado em transformar problemas complexos em soluções de software eficientes.</i>
   <br>
-  <i>[Sua universidade ou instituição, ex: Cursando ADS na FATEC / Senac / Estácio]</i>
+  <i>Cursando ADS na Estácio</i>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Atualmente, estou mergulhado(a) no curso de **Análise e Desenvolvimento de Sistemas**, onde aprendo não apenas a codificar, mas a entender todo o ciclo de vida de um software, desde a concepção e análise de requisitos até a implementação e os testes.
+Atualmente, estou mergulhado no curso de **Análise e Desenvolvimento de Sistemas**, onde aprendo não apenas a codificar, mas a entender todo o ciclo de vida de um software, desde a concepção e análise de requisitos até a implementação e os testes.
 
-Minha paixão é usar a tecnologia para criar soluções que realmente façam a diferença. Estou construindo uma base sólida em [Sua especialidade principal, ex: desenvolvimento backend com Java/C#] e [Sua especialidade secundária, ex: modelagem de dados e SQL].
+Minha paixão é usar a tecnologia para criar soluções que realmente façam a diferença. Estou construindo uma base sólida em Backend com Java/C# e modelagem de dados e SQL.
 
 * 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.
 * 🌱 Buscando ativamente por oportunidades de **estágio** ou **projetos júnior** para aplicar meu conhecimento e crescer profissionalmente.
@@ -24,8 +24,8 @@ Minha paixão é usar a tecnologia para criar soluções que realmente façam a 
 ## 📊 Minhas Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaeldevcoder&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldevcoder&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ## 🛠️ Habilidades & Ferramentas
